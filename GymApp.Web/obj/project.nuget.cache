@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fUYyfi9pVUyryVJ8sVRO2nv8XQ6GL5MrEqklRZ5lSuoLsT20beq9UFQIngCbMQCY0DyLyAGEygH9oPR1f8Q/3g==",
+  "dgSpecHash": "PoJqXylmUxUnVrrJ6MVd2zSbNEntPXsmPV2n1/bnzj4mXdyb/M6ZDUjmnALrPhPVomrNNN9txNjxT8nrNkxFPQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ferha\\OneDrive\\Masaüstü\\GymApp\\GymApp.Web\\GymApp.Web.csproj",
+  "projectFilePath": "C:\\Users\\ferha\\OneDrive\\Belgeler\\GitHub\\GymApp\\GymApp.Web\\GymApp.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ferha\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\ferha\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

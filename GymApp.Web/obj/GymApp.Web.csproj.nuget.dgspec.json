@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ferha\\OneDrive\\Masaüstü\\GymApp\\GymApp.Web\\GymApp.Web.csproj": {}
+    "C:\\Users\\ferha\\OneDrive\\Belgeler\\GitHub\\GymApp\\GymApp.Web\\GymApp.Web.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ferha\\OneDrive\\Masaüstü\\GymApp\\GymApp.Web\\GymApp.Web.csproj": {
+    "C:\\Users\\ferha\\OneDrive\\Belgeler\\GitHub\\GymApp\\GymApp.Web\\GymApp.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ferha\\OneDrive\\Masaüstü\\GymApp\\GymApp.Web\\GymApp.Web.csproj",
+        "projectUniqueName": "C:\\Users\\ferha\\OneDrive\\Belgeler\\GitHub\\GymApp\\GymApp.Web\\GymApp.Web.csproj",
         "projectName": "GymApp.Web",
-        "projectPath": "C:\\Users\\ferha\\OneDrive\\Masaüstü\\GymApp\\GymApp.Web\\GymApp.Web.csproj",
+        "projectPath": "C:\\Users\\ferha\\OneDrive\\Belgeler\\GitHub\\GymApp\\GymApp.Web\\GymApp.Web.csproj",
         "packagesPath": "C:\\Users\\ferha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ferha\\OneDrive\\Masaüstü\\GymApp\\GymApp.Web\\obj\\",
+        "outputPath": "C:\\Users\\ferha\\OneDrive\\Belgeler\\GitHub\\GymApp\\GymApp.Web\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ferha\\AppData\\Roaming\\NuGet\\NuGet.Config",
